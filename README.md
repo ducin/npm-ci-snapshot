@@ -1,3 +1,7 @@
+## disclaimer
+
+Unfortunately, this project is a fork of `npm-snapshot` due to its author @dpratt not responding to attempts to co-maintain or release new versions of this package. `npm-snapshot` name has not been altered.
+
 # npm-snapshot
 
 A little script to help with prerelease `npm` modules. 
@@ -27,8 +31,4 @@ npm publish --tag BUILD_TAG
 
 ## Install
 
-`npm install -g npm-snapshot`
-
-## License
-
-MIT
+`npm install -g npm-ci-snapshot`

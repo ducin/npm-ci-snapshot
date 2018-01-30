@@ -1,15 +1,16 @@
 {
-  "name": "npm-snapshot",
-  "version": "1.0.3",
+  "name": "npm-ci-snapshot",
+  "version": "1.0.4",
   "description": "Tiny tool for releasing npm prerelease snapshots.",
   "author": "David Pratt <david.pratt@gmail.com",
+  "contributors": ["Tomasz Ducin <tomasz@ducin.it>"],
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/dpratt/npm-snapshot.git"
+    "url": "https://github.com/ducin/npm-ci-snapshot.git"
   },
   "bugs": {
-    "url": "https://github.com/dpratt/npm-snapshot/issues"
+    "url": "https://github.com/ducin/npm-snapshot/issues"
   },
   "engines": {
     "node": ">= 4.0.0",
